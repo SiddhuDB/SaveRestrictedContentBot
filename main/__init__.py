@@ -15,7 +15,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 API_ID = config("API_ID",17998867, cast=int)
 API_HASH = config("API_HASH",f66de5165eaa46f7f4cc5387b500d91d)
 BOT_TOKEN = config("BOT_TOKEN",5436556142:AAE8G9FXPdSpm-Y3pFjX8NiygSlpn8qnsx0)
-SESSION = config("SESSION", default=None)
+SESSION = config("SESSION",AgAbF4gxodmtUJBJ3o1_733a8YjTal-wPDL38D6xICppHfKl71Hjz8tEV4fACJ7dTOli-g9jjuBG0PHyfDgG3MJ4af0onAp0n7LdaNIBgEdqnmfP-FCTUE6mfkjK7mCOQAs5CK3vrKlI2Q2oOsHYLmW-Ri_qoj2j3nWNLEb0U4hu9d40MFyTtdILZxxSjehWLdwP8ls8asgJpU2INwzTbZehZoTZNUlRjvRo-2I50VOzwX9w30-_-j5r7jBNsMnOsaJ_fC7mzc9kLJIjVGI2FTgFHHc5G2U-xWe8SqaBjazOmodIUxUecXCcUpYRIhPPQ1e1MRCbh1t2uVW4_6galq5MAAAAATZFMJAA)
 FORCESUB = config("FORCESUB", default=None)
 AUTH = config("AUTH",5205471376, cast=int)
 
